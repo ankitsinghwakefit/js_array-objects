@@ -34,7 +34,7 @@ console.log(arr1 === arr2);        flase
 console.log(arr == arr2);          flase 
 
 //What's the output
-console.log([10] === [10]);        flase -------------------------------------------------
+console.log([10] === [10]);        flase 
 
 // What's the output?
 

@@ -6,6 +6,7 @@ var myPenguin = {
     favoriteFoods : ["beans", "chalk", "stone"],
 }
 
+myPenguin
 console.log(myPenguin.favoriteFoods[1]);
 
 var firstFavFood = myPenguin.favoriteFoods[0];
